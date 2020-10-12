@@ -4,5 +4,5 @@
 
 
 @section('content')
-    <h3>sei in home</h3>
+    <h3>sei in homee</h3>
 @endsection

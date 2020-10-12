@@ -7,6 +7,8 @@ use Illuminate\Http\Request;
 class StudentController extends Controller
 {
     public function studenti(){
-        return view('studenti');
+        $data = config('students');
+
+        return view('studenti',compact('data'));
     }
 }

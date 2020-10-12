@@ -10,4 +10,4 @@ return [
         'ruolo' => 'web developer',
         'descrizione' => 'lorem imppsum'
     ]
-    ];
+];

@@ -13,7 +13,7 @@
             <a class="nav-link" href="{{route('StaticPage.chisiamo')}}">Chi Siamo</a>
         </li>
         <li class="nav-item">
-            <a class="nav-link disabled" href="#">Studenti</a>
+            <a class="nav-link" href="{{route('Student.studenti')}}">Studenti</a>
         </li>
       </ul>
     </div>

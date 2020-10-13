@@ -19,7 +19,7 @@ class StudentController extends Controller
     }
 
     public function show($id){
-        if(!array_key_set($id,$this->students)){
+        if(!array_key_exists($id,$this->students)){
             abort(404);
         }
 

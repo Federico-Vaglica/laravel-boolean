@@ -12,7 +12,7 @@ return [
     ],
     [
         'img'=>'https://www.boolean.careers/images/people/biagini.png',
-        'nome'=>'Carla',
+        'nome'=>'Mario',
         'cognome' => 'Rossi',
         'anni' => '27',
         'azienda' => 'rds Radio',
